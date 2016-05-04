@@ -1,12 +1,12 @@
 Author Info
 ===========
 
-Name:
-Date:
+-Name:
+-Date:
 
 Description
 ===========
-This program generates a random 2D list of integers between 0 and 10, and it prints the list nicely and displays the average of each row and ech column
+This program generates a random 2D list of integers between 0 and 10, and it prints the list nicely and displays the average of each row and ech column.
 
 Usage
 =====
@@ -18,7 +18,7 @@ cd into the project directory and run `python average.py`
 Output
 ------
 The program will output the ramdomly generated grid plus the averages for the rows and columns. For example
-
+<pre>
 -----------------
 | 2 | 3 | 7 | 0 |
 -----------------
@@ -30,4 +30,6 @@ The program will output the ramdomly generated grid plus the averages for the ro
 -----------------
 
 row averages: [3.0, 3.5, 3.75, 4.5]
+
 column averages: [3.25, 4.0, 5.5, 2.0]
+</pre>
