@@ -1,8 +1,8 @@
 Author Info
 ===========
 
--Name:
--Date:
+-Name: Your Name
+-Date: Today
 
 Description
 ===========
