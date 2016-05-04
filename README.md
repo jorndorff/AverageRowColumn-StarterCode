@@ -6,7 +6,11 @@ Author Info
 
 Description
 ===========
-This program generates a random 2D list of integers between 0 and 10, and it prints the list nicely and displays the average of each row and ech column.
+This program performs the following operations on a random 2D list of integers.
+
+- Generates a 4 X 4 list of random integers between 0 and 10
+- Prints the list nicely (see below)
+- Displays the average of each row and each column.
 
 Usage
 =====
